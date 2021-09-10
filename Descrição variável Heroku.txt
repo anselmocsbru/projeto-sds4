@@ -1,0 +1,10 @@
+postgres://
+Nome do usuário: vxxncdrmjyyjic
+:
+Senha: 1a4586d6ec73e260ae15644128afe1cc073e15a572b85a73e4b4015c814c6e5e
+@
+host: ec2-18-233-83-165.compute-1.amazonaws.com
+:
+porta: 5432
+/
+nome do banco: d6es81t889k76o

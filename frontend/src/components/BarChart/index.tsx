@@ -15,7 +15,6 @@ type ChartData = {
         categories: string[];
     },
     series: SeriesData[];
-
 }
 const BarChart = () => {
 
